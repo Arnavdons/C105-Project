@@ -1,0 +1,33 @@
+.b{
+width: 80%;
+font-size: 20px;
+background-color:purple;
+color: aqua;
+}
+body{
+background-color: rgb(16, 0, 75);
+color: white;
+}
+#cam{
+width: 350px;
+height: 350px;
+border: 6px white solid;
+background-color: black;
+}
+
+#snap{
+width: 150px;
+height: 30px;
+color: red;
+background-color: black;
+}
+#check{
+width: 130px;
+height: 30px;
+color: red;
+background-color: black;
+}
+img{
+width: 357px;
+height: 300px;
+}
